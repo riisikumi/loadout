@@ -1,0 +1,14 @@
+{
+	"version": "1.0.0",
+	"id": "riisikumi.loadout",
+	"name": "Blood Money Loadout",
+	"description": "Adds some items to your default loadout. Marvellous!",
+	"authors": [
+		"riisikumi"
+	],
+	"frameworkVersion": "2.0.0",
+	"options": [],
+	"contentFolders": [
+		"content"
+	]
+}
